@@ -1,0 +1,27 @@
+{
+  "name": "nginxswitch",
+  "version": "1.0.0",
+  "description": "Command line tool for switching from/to dev/prod for mute and its related servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coast-team/nginxswitch.git"
+  },
+  "keywords": [
+    "command-line"
+  ],
+  "author": "Philippe Kalitine <philippe.kalitine@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coast-team/nginxswitch/issues"
+  },
+  "homepage": "https://github.com/coast-team/nginxswitch#readme",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "jsonfile": "^4.0.0",
+    "prompt": "^1.0.0"
+  }
+}
