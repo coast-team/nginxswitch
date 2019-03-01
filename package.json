@@ -21,7 +21,7 @@
   "homepage": "https://github.com/coast-team/nginxswitch#readme",
   "dependencies": {
     "commander": "^2.11.0",
-    "jsonfile": "^4.0.0",
+    "jsonfile": "^5.0.0",
     "prompt": "^1.0.0"
   }
 }
